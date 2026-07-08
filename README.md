@@ -227,10 +227,9 @@ Designing and building full-stack applications end-to-end, from database schema 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadAyaanRajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
-<img height="165" src="https://streak-stats.demolab.com/?user=MuhammadAyaanRajput&theme=tokyonight&hide_border=true&background=0D1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
-
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadAyaanRajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadAyaanRajput&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
+<img width="32%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MuhammadAyaanRajput&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
+<img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadAyaanRajput&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
